@@ -1,0 +1,59 @@
+{
+  "slug": "b-square-events-kochi",
+  "name": "B Square Events",
+  "shortName": "B Square",
+  "descriptor": "Event Management",
+  "address": "Mambillyparambu road, Marottichuvadu, Edappally, Ernakulam, Kochi, Keralam 682024",
+  "area": "Edappally",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682024",
+  "geo": {
+    "lat": 10.0212995,
+    "lng": 76.3186101
+  },
+  "mapsLink": "https://maps.google.com/?cid=5937357746953956892",
+  "phone": "+91 97461 00188",
+  "whatsapp": "919746100188",
+  "hours": "Open 9 am – 9 pm · all days",
+  "opens": "09:00",
+  "closes": "21:00",
+  "rating": 5,
+  "reviewCount": 47,
+  "reviews": [
+    {
+      "name": "Vishnu ullas",
+      "rating": 5,
+      "quote": "We were very happy with the floor arrangement by B SQUARE EVENT for our engagement. The round table and chair setup was beautifully arranged, elegant, and comfortable for our guests. 🌸🪑✨ The overall seating arrangement, decoration, table setup, and attention to detail were excellent."
+    },
+    {
+      "name": "Shyam S",
+      "rating": 5,
+      "quote": "The decoration was elegant, well-planned, and perfectly suited to the occasion. The color combinations and arrangement were highly attractive. It is evident that a lot of effort and creativity went into the work. The overall presentation was excellent and commendable."
+    },
+    {
+      "name": "akshaya s",
+      "rating": 5,
+      "quote": "We are absolutely in love with the stage decoration by B Square Events! The team did an incredible job and truly brought our wedding vision to life. Every detail was beautifully done, and the stage looked magical. They made our special day even more memorable. Thank you so much, B Square Events, for the amazing work and dedication!"
+    },
+    {
+      "name": "Akhil Turly",
+      "rating": 5,
+      "quote": "We had a wonderful experience with B Square Events! From planning to execution, the team was highly professional, organized, and attentive to every detail. They understood our requirements perfectly and delivered everything exactly as promised, making our event smooth and stress-free."
+    },
+    {
+      "name": "akhil",
+      "rating": 5,
+      "quote": "Huge thanks to B Square Events for making our housewarming ceremony so special! They handled the setup and arrangements with total perfection and great attention to detail. Very professional, polite team, and excellent service throughout. Highly recommended!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://b-square-events-kochi.vercel.app"
+}
